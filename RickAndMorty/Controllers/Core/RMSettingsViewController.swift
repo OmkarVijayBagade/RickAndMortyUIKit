@@ -7,6 +7,8 @@
 
 import UIKit
 
+
+/// Controller to shor  settings
 final class RMSettingsViewController: UIViewController {
 
     override func viewDidLoad() {
